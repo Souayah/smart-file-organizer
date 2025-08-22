@@ -20,7 +20,7 @@ Smart File Organizer is a Python-based utility designed to automatically organiz
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/smart-file-organizer.git
+   git clone https://github.com/Souayah/smart-file-organizer.git
    cd smart-file-organizer
    ```
 
